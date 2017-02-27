@@ -17,6 +17,7 @@ subway, or on foot.
 
 ##Functionality Pictures
 ![Burrito Map](http://i.imgur.com/n5sALLJl.png)
+![Add Form](http://i.imgur.com/Q32vpK2l.png)
 ![Add Place](http://i.imgur.com/R0YphNBl.png)
 ![Place Added](http://i.imgur.com/cREiCy9l.jpg)
 ![Navigation](http://i.imgur.com/VaCLx11l.png)
