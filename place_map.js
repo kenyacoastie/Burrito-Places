@@ -13,6 +13,7 @@ export default class PlaceMap extends Component {
 
   constructor(props) {
     super(props);
+    //state will be the mapView region prop
     this.state = {
      currentRegion: {
       latitude: 0,
@@ -67,7 +68,7 @@ export default class PlaceMap extends Component {
 
   render() {
     const { annotations } = this.props;
-    //adds a button to each place for navigation
+    //adds a button to each annotation on map for navigation
     annotations.forEach(annotation => {
       annotation.rightCalloutView = (
         <TouchableHighlight
@@ -79,6 +80,8 @@ export default class PlaceMap extends Component {
       );
     })
     return (
+      //react native mapView component renders a map, annotation prop
+      //are pins and region prop is starting point
       <MapView
         style={styles.map}
         region={this.state.currentRegion}

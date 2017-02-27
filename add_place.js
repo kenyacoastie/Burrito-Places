@@ -25,6 +25,8 @@ export default class AddPlace extends Component {
   }
 
   handleAddPlace() {
+    //setting up error messages for if a user does not enter
+    //all necessary information into add place form
     const { title, address } = this.state;
     let titleError = '';
     let addressError = '';

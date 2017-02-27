@@ -62,6 +62,7 @@ export default class BurritoPlaces extends Component {
   }
 
   postData() {
+    //trying to get firebase to work, unsuccessful thus far
     axios({
       method: 'POST',
       url: `https://burrito-place.firebaseio.com/`,
@@ -72,7 +73,8 @@ export default class BurritoPlaces extends Component {
       console.log(response);
     })
   }
-
+  //tabBarIOS component is the bottom menu, define each view within
+  //that navigation
   render() {
     return (
       <TabBarIOS>
