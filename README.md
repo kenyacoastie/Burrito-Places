@@ -1,4 +1,4 @@
-![Map Image](http://i.imgur.com/teDgsqot.jpg)
+![Map Image](http://i.imgur.com/teDgsqol.jpg)
 
 # Burrito Places
 Ever wonder where to get a great burrito fast? Burrito Places is your answer. Using geolocation coordinates and the Google Places API, when the app loads
