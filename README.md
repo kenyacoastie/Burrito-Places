@@ -9,11 +9,11 @@ on the map also include a navigation button, which links to Apple Maps and will 
 subway, or on foot. 
 
 ##Functionality Pictures
-[Burrito Map](http://i.imgur.com/n5sALLJ.png)
-[Add Place](http://i.imgur.com/R0YphNB.png)
-[Place Added](http://i.imgur.com/cREiCy9.jpg)
-[Navigation](http://i.imgur.com/VaCLx11.png)
-[Navigation in Action](http://i.imgur.com/GO78uDp.png)
+![Burrito Map](http://i.imgur.com/n5sALLJl.png)
+![Add Place](http://i.imgur.com/R0YphNBl.png)
+![Place Added](http://i.imgur.com/cREiCy9l.jpg)
+![Navigation](http://i.imgur.com/VaCLx11l.png)
+![Navigation in Action](http://i.imgur.com/GO78uDpl.png)
 
 ##Technologies Used
 - React Native
