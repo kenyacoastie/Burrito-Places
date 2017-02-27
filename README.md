@@ -1,4 +1,4 @@
-![Map Image](http://i.imgur.com/cREiCy9.jpg)
+![Map Image](http://i.imgur.com/teDgsqot.jpg)
 
 # Burrito Places
 Ever wonder where to get a great burrito fast? Burrito Places is your answer. Using geolocation coordinates and the Google Places API, when the app loads
@@ -22,7 +22,8 @@ subway, or on foot.
 - Google Geocoding API
 - Google Places API
 
-```add_place component
+##Add_Place Component
+````
 export default class AddPlace extends Component {
 
   constructor() {
