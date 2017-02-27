@@ -24,6 +24,9 @@ subway, or on foot.
 ![Navigation](http://i.imgur.com/VaCLx11l.png)
 ![Navigation in Action](http://i.imgur.com/GO78uDpl.png)
 
+###Info on Installing React Native and Getting Up and Running
+[Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started.html)
+
 ##Add_Place Component
 ````
 export default class AddPlace extends Component {
