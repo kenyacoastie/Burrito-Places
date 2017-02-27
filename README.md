@@ -1,4 +1,5 @@
 ![Map Image](http://i.imgur.com/teDgsqol.jpg)
+![Burrito Map](http://i.imgur.com/n5sALLJl.png)
 
 # Burrito Places
 Ever wonder where to get a great burrito fast? Burrito Places is your answer. Using geolocation coordinates and the Google Places API, when the app loads
@@ -16,7 +17,7 @@ subway, or on foot.
 - Google Places API
 
 ##Functionality Pictures
-![Burrito Map](http://i.imgur.com/n5sALLJl.png)
+![Home Screen](http://i.imgur.com/fsOT8D0l.jpg)
 ![Add Form](http://i.imgur.com/Q32vpK2l.png)
 ![Add Place](http://i.imgur.com/R0YphNBl.png)
 ![Place Added](http://i.imgur.com/cREiCy9l.jpg)
