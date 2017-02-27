@@ -4,8 +4,8 @@
 # Burrito Places
 Ever wonder where to get a great burrito fast? Burrito Places is your answer. Using geolocation coordinates and the Google Places API, when the app loads
 the user is focused in on their current location and all the burrito spots within a 5000 meter radius are indicated with a burrito emoji. Click on the burrito
-and you are shown that restaurants burrito rating. You can also drop custom pins with the add place functionality. Just click on the places tab on the bottom
-and you are brought to a form where you can enter in a name and address. After that location is added, it will show up on a map as a red pin. All locations dropped
+and you are shown that restaurant's burrito rating. You can also drop custom pins with the add place functionality. Just click on the places tab on the bottom
+and you are brought to a form where you can enter in a name and address. After that location is added, it will show up on the map as a red pin. All locations
 on the map also include a navigation button, which links to Apple Maps and will provide step-by-step navigation for you to get to that destination, whether by car, 
 subway, or on foot. 
 
