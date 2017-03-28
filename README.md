@@ -111,7 +111,7 @@ const Error = (props) => {
   );
 }
 
-```
+````
 
 ### Build Strategy
 Based on my love for React, I decided early that I wanted to try my hand at React Native and build a mobile app. I went through several tutorials
