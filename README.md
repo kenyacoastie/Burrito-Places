@@ -9,14 +9,14 @@ and you are brought to a form where you can enter in a name and address. After t
 on the map also include a navigation button, which links to Apple Maps and will provide step-by-step navigation for you to get to that destination, whether by car, 
 subway, or on foot. 
 
-##Technologies Used
+## Technologies Used
 - React Native
 - Xcode
 - Axios
 - Google Geocoding API
 - Google Places API
 
-##Functionality Pictures
+## Functionality Pictures
 ![Home Screen](http://i.imgur.com/fsOT8D0l.jpg)
 ![Add Form](http://i.imgur.com/Q32vpK2l.png)
 ![Add Place](http://i.imgur.com/R0YphNBl.png)
@@ -24,10 +24,10 @@ subway, or on foot.
 ![Navigation](http://i.imgur.com/VaCLx11l.png)
 ![Navigation in Action](http://i.imgur.com/GO78uDpl.png)
 
-###Info on Installing React Native and Getting Up and Running
+### Info on Installing React Native and Getting Up and Running
 [Getting Started with React Native](https://facebook.github.io/react-native/docs/getting-started.html)
 
-##Add_Place Component
+## Add_Place Component
 ````
 export default class AddPlace extends Component {
 
@@ -113,16 +113,16 @@ const Error = (props) => {
 
 ```
 
-###Build Strategy
+### Build Strategy
 Based on my love for React, I decided early that I wanted to try my hand at React Native and build a mobile app. I went through several tutorials
 to find my bearings and then began to code. First I built the index.ios.js component and hardcoded in some geolocation data to get myseful up and running.
 Once that was complete, I then added the add_place component and the ability to drop pins on the map. Afterwards, I added the navigation capabilities through 
 Apple Maps and the React Native Linking interface. After that was working, I was then able to build all the features I wanted, namely using the Google 
 geocoding API to grab a user's location and the Google places API to find all the nearby burrito spots and give a rating.
 
-###Complications/Future Improvements
+### Complications/Future Improvements
 I would like to add a backend, particularly Firebase since it works so well with React and React Native, so that I can render a list of all the favorite places
 that a user has added to the map. Also, the app is currently only available on IOS, would like to eventually add Android functionality. 
 
-####Authors
+#### Authors
 Matt Kersner
